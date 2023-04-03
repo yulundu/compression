@@ -1,0 +1,4 @@
+torch
+git+https://github.com/karpathy/minGPT.git
+wandb
+loguru
